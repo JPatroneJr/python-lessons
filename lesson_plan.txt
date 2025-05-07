@@ -1,0 +1,30 @@
+#### basics
+----
+0. Setup and Basic Command Lines
+1. Variables
+2. Conditionals
+3. Loops
+    - For
+    - While
+4. Functions
+    - execute
+    - return
+5. Modules
+    - random
+    - turtle
+
+
+#### data structures and methods
+5. lists and tuples
+6. dictionaries
+7. Functions pt2
+    - args
+    - kwags
+
+
+### Objects Oriented Programming
+#### Welcome to the OOPS club
+
+
+
+

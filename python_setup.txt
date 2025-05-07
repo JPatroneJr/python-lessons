@@ -1,0 +1,32 @@
+# get the version of python
+py -V
+
+# locate your installed python
+# windows
+where py
+
+
+
+# HOW TO RUN A SCRIPT
+
+to run a script you will type the word 'py' to say I would like to use this python environment
+and then the name of the script (if you are in that directory).
+
+pwd = Print Working Directory. 'YOU ARE HERE'
+for example if you type 'pwd' into your terminal it may print out 
+'/Users/me/python-lessons/conditions'
+
+ls = list files. 'What is in the 'file cabinet (directory) you are currently in'
+
+so running 'ls' may return 'age_example_quiz.py     conditional_example.py'
+
+This means that inside your working directory(pwd) there are two files(ls)
+
+so to execute the script you would call the python environment and the name of the script.
+
+This works since you are in the directory
+# py conditional_example.py
+
+if you were outside the directory you could still call it by using the full file path
+# py /Users/me/python-lessons/conditions/conditional_example.py
+
