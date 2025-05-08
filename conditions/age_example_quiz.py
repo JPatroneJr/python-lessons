@@ -1,5 +1,12 @@
 # py age_example_quiz.py
 
+# QUIZ
+'''
+In the if statements above the numbers 18 and 21 can also be variables.
+What if in a different country the drinking age was 18 and the voting age was 25?
+Format this to use variables instead in age_example_quiz.py
+'''
+
 # hint put variables together at the top here
 name = 'Arthur'
 age = 28

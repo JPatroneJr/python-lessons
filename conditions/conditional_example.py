@@ -30,6 +30,14 @@ else:
 
 'youre not my mom' WILL ONLY PRINT if age is less than 30 
 and vice versa for 'Ok Boomer'
+--------------------------------------
+Basic Conditional Operators
+==  Equal to
+!=  Not equal to
+>  Greater than
+<  Less than
+>=   Greater than or equal to
+<=   Less than or equal to
 '''
 
 name = 'Arthur'
